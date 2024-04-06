@@ -3,7 +3,7 @@
 
 - 🔭 I worked on creating language [parser](https://github.com/TEDDAC/Basic-Recursive-Descent-Parser) and [interpreter](https://github.com/TEDDAC/Java-Calculator)
 
-- 💻 I love learn things like [how to make raycasting 3D engine](https://github.com/TEDDAC/ruby-raycasting)
+- 💻 I love learn things like [how to make raycasting 3D engine](https://github.com/TEDDAC/js-raycasting)
 
 - ⚡ Fun fact **useless is funny**
 - 
