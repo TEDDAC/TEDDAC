@@ -12,4 +12,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?perline=13&i=androidstudio,bash,c,cpp,cs,css,html,docker,dotnet,git,kotlin,java,javascript,typescript,nodejs,php,jenkins,gitlab,linux,grafana,mongodb,mysql,angular,react,vuejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=8&i=androidstudio,bash,c,cpp,cs,docker,kubernetes,dotnet,kotlin,java,maven,spring,kafka,idea,javascript,nodejs,typescript,php,jenkins,git,gitlab,linux,grafana,mongodb,mysql,css,html,angular,react,vuejs,md,regex)](https://skillicons.dev)
