@@ -5,7 +5,7 @@
 
 - 💻 I love learn things like [how to make raycasting 3D engine](https://github.com/TEDDAC/js-raycasting)
 
-- ⚡ Fun fact **useless is funny**
+- ⚡ **useless is funny**
 
 <p align="left">
 </p>
